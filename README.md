@@ -34,7 +34,7 @@ To get started quickly, you can copy the example pattern files to `~/.gf` like t
 ```
 **MY Gf Patterns installation**
 ```bash
-▶ git clone https://github.com/1ndianl33t/Gf-Patterns
+▶ git clone https://github.com/cypher3107/GF-Patterns.git
 ```
 
 To get started quickly, you can copy the example pattern files to `~/.gf` like this:
@@ -212,10 +212,6 @@ The pattern definitions are stored in `~/.gf` as little JSON files that can be k
 ```
 
 
-
-
-
-
 ***Gf Sqli***
 ```bash
 ▶ cat ~/.gf/sqli.json
@@ -343,5 +339,3 @@ You can encourage me to contribute more to the open source with donations.
 # Credit
 [Bugcrowd HUNT](https://github.com/bugcrowd/HUNT)
 
-# Contact
-[![Twitter](https://img.shields.io/badge/twitter-@1ndianl33t-blue.svg)](https://twitter.com/1ndianl33t)
