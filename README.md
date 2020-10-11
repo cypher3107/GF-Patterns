@@ -2,7 +2,7 @@
 
 A wrapper around grep, to help you grep for things 
 
-# installation
+# Installation
 
 [Go Path Setup](https://github.com/golang/go/wiki/SettingGOPATH)
 
